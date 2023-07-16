@@ -109,6 +109,13 @@ main {
     font-size: 1rem;
     font-weight: 400;
 }
+
+/* feature section styles */
+.features{
+    display: flex;
+    margin-top: 120px;
+    gap: 100px;
+}
 /* facts section styles */
 .facts-card-container{
     display: flex;
